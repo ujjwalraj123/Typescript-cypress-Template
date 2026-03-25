@@ -1,0 +1,25 @@
+# Node
+node_modules/
+-p
+
+#screenshots
+cypress/screenshots/
+cypress/videos/
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+bin/
+obj/
+
+# Logs & temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+#allure
+allure-results
+
